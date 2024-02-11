@@ -1,0 +1,24 @@
+{
+  "name": "react-dynamic-form-validation",
+  "version": "1.0.0",
+  "description": "React library to for form validations",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": ["react", "form", "dynamic", "builder", "validation"],
+  "author": "Talha",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7",
+    "eslint": "^9.11.1",
+    "prettier": "^3.3.3"
+  }
+}
